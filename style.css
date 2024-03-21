@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(125, 182, 193);
+}
+
+h1 {
+    color: pink;
+    background: #201818;
+}
+
+p {
+    color: red;
+    font-size: 20px;
+}
