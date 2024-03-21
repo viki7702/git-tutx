@@ -23,6 +23,7 @@ console.log(author);
 
 
 
+
 num1 = 3
 num2 = 4
 result = num1 + num2
@@ -32,5 +33,10 @@ let i = 1
 while (i <= 5) {
     console.log("hi");
     i++;
+}
 
+for(i=1;i<=100;i++){
+    if(i%4==0){
+        console.log(i);
+    }
 }
